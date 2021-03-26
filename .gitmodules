@@ -1,0 +1,3 @@
+[submodule "samling"]
+	path = samling
+	url = https://github.com/zliau/samling.git
